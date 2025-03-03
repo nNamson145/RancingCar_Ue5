@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\rancinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\rancinggame\\uht\\rancinggamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine-5.4.4-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\rancinggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rancinggame\\definitions.rancinggame.h",
+            "c:\\rancinggame\\source\\rancinggame\\public\\rancinggamemode.h",
+            "d:\\unrealengine-5.4.4-release\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\unrealengine-5.4.4-release\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\unrealengine-5.4.4-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\unrealengine-5.4.4-release\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\rancinggame\\intermediate\\build\\win64\\unrealeditor\\inc\\rancinggame\\uht\\rancinggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

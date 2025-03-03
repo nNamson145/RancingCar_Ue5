@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RancingGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RancingGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RancingGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RancingGame">
+      <UniqueIdentifier>{88F3E1AC-AEB2-33AD-A3EF-F8BD0B02DB2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RancingGame\RancingGame.Build.cs">
+      <Filter>Source\RancingGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RancingGame\RancingGame.cpp">
+      <Filter>Source\RancingGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RancingGame\RancingGame.h">
+      <Filter>Source\RancingGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\RancingGame\Private">
+      <UniqueIdentifier>{0A80FD2A-3997-3A96-BD68-9028DE1E7C77}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RancingGame\Private\CarController.cpp">
+      <Filter>Source\RancingGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RancingGame\Private\CarPawn.cpp">
+      <Filter>Source\RancingGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RancingGame\Private\RancingGameMode.cpp">
+      <Filter>Source\RancingGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RancingGame\Public">
+      <UniqueIdentifier>{AC15F1BC-73F1-301C-81E2-A3AFB4B34CDF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RancingGame\Public\CarController.h">
+      <Filter>Source\RancingGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RancingGame\Public\CarPawn.h">
+      <Filter>Source\RancingGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RancingGame\Public\RancingGameMode.h">
+      <Filter>Source\RancingGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

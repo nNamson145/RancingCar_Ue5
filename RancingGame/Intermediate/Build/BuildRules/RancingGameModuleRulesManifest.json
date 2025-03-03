@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\RancingGame\\Source\\RancingGame\\RancingGame.Build.cs",
+		"C:\\RancingGame\\Source\\RancingGame.Target.cs",
+		"C:\\RancingGame\\Source\\RancingGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
